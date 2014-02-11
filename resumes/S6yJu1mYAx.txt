@@ -1,0 +1,10 @@
+Name : Pandian
+Address : Room 55
+Contact : 9486088421
+Email id : pandian4mail@gmail.com
+Languages known : Tamil,English
+Technical skills : C,C++,Java and PHP
+Achievements : First place in coding competitions.
+Field of interst : Data structures.
+Other talents : Solved problems in SPOJ.
+Hobbies : Playing basketball.

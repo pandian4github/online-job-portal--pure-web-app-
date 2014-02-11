@@ -1,0 +1,10 @@
+Name : Krishnan
+Address : Room 59
+Contact : 9756457645
+Email id : aariyankrishnan@gmail.com
+Languages known : Tamil,English
+Technical skills : HTML,CSS,Javascript and PHP.
+Achievements : Designed a website
+Field of interst : Web designing.
+Other talents : Solved problems in SPOJ.
+Hobbies : Designing websites

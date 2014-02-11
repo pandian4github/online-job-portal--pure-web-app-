@@ -1,0 +1,7 @@
+Company name : Amazon
+Address : 60 New Colony
+Name : Daniel
+Phone : 9790012391
+Email id : danielsamfdo@gmail.com
+Requirements : web developer
+web developer

@@ -1,0 +1,11 @@
+Company name : Chronus
+Address : TVK estate, Guindy
+Name : Vignesh
+Phone : 9345653443
+Email id : vignesh@chronus.com
+Requirements : Should be well-versed in HTML, CSS, javascript and PHP.
+Should have experience in designing websites.
+Should have basic knowledge of cloud computing.
+Should be well-versed in HTML, CSS, javascript and PHP.
+Should have experience in designing websites.
+Should have basic knowledge of cloud computing.

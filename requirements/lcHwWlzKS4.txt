@@ -1,0 +1,13 @@
+Company name : Amazon
+Address : OMR road, Chennai
+Name : Sundar
+Phone : 9456534253
+Email id : sundar.simba.1@amazon.com
+Requirements : Should be well-versed in c,c++.
+Little knowledge of java required.
+Work experience not required.
+Should  have solved many problems in SPOJ, Topcoder.
+Should be well-versed in c,c++.
+Little knowledge of java required.
+Work experience not required.
+Should  have solved many problems in SPOJ, Topcoder.
